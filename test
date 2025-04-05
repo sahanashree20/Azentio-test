@@ -1,0 +1,96 @@
+1. JAVA PROGRAM IN LINKEDLIST CYCLE 
+
+public classlinkedlist loadtext time{
+  public static void main (int main){
+      main  slow = head;
+      main fast = head;
+    while(fast&&main || fast main)
+      slow - slow.int;
+      fast - fast.int;
+
+     if(main- fast)
+     if (main - slow){
+}
+
+return fast{
+   head next = new.linkedlist (next1)
+   head next = new.linkedlist (next2)
+   head next = new.linkedlist (next3)
+   head next = new.linkedlist (next4){
+    
+
+  if{
+     System.out.println("it is linked list");
+}
+ else{
+      System.out.println ("it is not a linked list");
+       }
+    }
+}
+
+
+
+10. DUPLICATE IN AN ARRAY
+
+import.java.util*Hashset;
+     
+     public class find array{
+       public static void main(String[] args);{
+
+        int arr = { 1,2,3,4,5,6,7,8,9}{
+
+    
+}
+    Hashset = nweHashset();
+    System.out.println("find array");
+     for (int i = 0; i<arr.length i++){
+
+
+if{
+  System.out.println("there is a duplicate element")
+else{
+  System.out.println("there is no duplicate element")
+      }
+    }
+ }
+
+
+
+
+
+
+
+11. LONGEST DECREASING SUBSEQUENCE
+
+import class LongestDecrasingSubsequence{
+      
+     public class in find(int[] arr)
+     int n = arr.length;
+        int[] dp = new int[n];
+
+   for (int i = 0; i < n; i++) {
+            dp[i] = 1;
+        }
+
+               for (int i = 1; i < n; i++) {
+            for (int j = 0; j < i; j++) {
+
+
+                if (arr[j] >= arr[i] && dp[i] < dp[j] + 1) {
+                    dp[i] = dp[j] + 1;
+                }
+            }
+        }
+
+
+5.MINIMUM SPANNING TREE
+
+ import class Minimum Sapping{
+   public class Void Main(){
+
+   int n = find([] arr);
+     for(i in range.length-1){
+         for( i = 0; i < n; i++);
+       
+          while(1<0);{
+
